@@ -1,0 +1,59 @@
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.exe
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.deps.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.dev.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.pdb
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Json.Net.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.AssemblyReference.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfoInputs.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfo.cs
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CoreCompileInputs.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CopyComplete
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.pdb
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.genruntimeconfig.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.exe
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.deps.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.dev.json
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.pdb
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Json.Net.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.AssemblyReference.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfoInputs.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfo.cs
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CoreCompileInputs.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CopyComplete
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.dll
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.pdb
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.genruntimeconfig.cache
+E:\Users\Sergy\Desktop\WeatherBotTG-main\WeatherBotTG-main\WeatherBot\bin\Debug\netcoreapp3.1\NickBuhro.Translit.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.exe
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.deps.json
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.json
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.runtimeconfig.dev.json
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\WeatherBot.pdb
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\NickBuhro.Translit.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.AssemblyInfo.cs
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.csproj.CopyComplete
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.dll
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.pdb
+C:\Users\USER\Desktop\УПпП проект\WeatherBot\WeatherBot\obj\Debug\netcoreapp3.1\WeatherBot.genruntimeconfig.cache
